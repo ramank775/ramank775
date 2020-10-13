@@ -1,6 +1,14 @@
 ### Hi there 👋, I am Raman !!
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/ramank775/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='25'>](https://twitter.com/@ramank775)
+<a href="https://twitter.com/ramank775">
+  <img align="left" alt="Raman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ramank775/">
+  <img align="left" alt="Raman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/ramank775">
+  <img align="left" alt="Raman | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
 
 I am a software engineer (Tech Lead fancy professional designation if that matters!!). I really enjoy working on designing and developing backend system and can work on the any end.
 
